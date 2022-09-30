@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="weather_image">Weather_image</string>
+    <string name="wind_image">wind image</string>
+    <string name="droplet_image">droplet image</string>
+    <string name="error">Something went wrong</string>
+    <string name="feh">" \u2109"</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="overmorrow">Overmorrow</string>
+</resources>
